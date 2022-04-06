@@ -1,0 +1,40 @@
+Caltech Behavior Annotator - Annotation File
+
+Configuration file:
+other o
+closeinvestigation i
+sniff_genital g
+sniff_body b
+sniff_face f
+mount m
+mount_attempt n
+intromission r
+attack a
+attack_attempt k
+approach p
+intruder_enter e
+intruder_out u
+cable_fix f
+alone l
+interaction c
+
+S1: start    end     type
+-----------------------------
+       1       62     other
+      63      185     closeinvestigation
+     186      190     other
+     191      291     closeinvestigation
+     292      405     other
+     406      420     closeinvestigation
+     421      523     other
+     524      618     closeinvestigation
+     619      631     other
+     632      706     mount
+     707      723     other
+     724      762     closeinvestigation
+     763      822     other
+     823      906     closeinvestigation
+
+S2: start    end     type
+-----------------------------
+       1      906     other
